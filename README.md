@@ -82,7 +82,7 @@
 
 
 # Структура
-.
+
 ├── 01_project_iconique/   # Power BI дашборд + данные
 ├── 02_project_datalens/   # Yandex DataLens (скоро)
 ├── 03_project_superset/   # Apache Superset (скоро)
