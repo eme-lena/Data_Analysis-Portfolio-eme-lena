@@ -31,7 +31,7 @@
 - Топ-кампании с разбивкой по CPO и ROMI
 
 ### Инструменты
-`Power BI Desktop (.pbip)` | `DAX` | `Excel` | `Git`
+`Power BI Desktop (.pbiх)` | `DAX` | `Excel` | `Git`
 
 ### Как открыть
 1. Скачайте файл `Iconique_Analysis.pbix` из папки `03_powerbi/`
